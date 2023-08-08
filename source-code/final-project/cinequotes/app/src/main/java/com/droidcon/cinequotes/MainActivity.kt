@@ -29,10 +29,17 @@ import androidx.compose.ui.unit.dp
 import com.droidcon.cinequotes.data.Quotes
 import com.droidcon.cinequotes.model.Quote
 import com.droidcon.cinequotes.ui.theme.CineQuotesTheme
+import com.droidcon.cinequotes.ui.theme.in_app_review.InAppReview
 
 class MainActivity : ComponentActivity() {
+
+    private lateinit var inAppReview: InAppReview
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        inAppReview = InAppReview()
+
         setContent {
             CineQuotesTheme {
                 Surface(
@@ -43,6 +50,8 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+
+        inAppReview.requestReview(this)
     }
 }
 
