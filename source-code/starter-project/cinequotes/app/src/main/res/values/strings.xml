@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CineQuotes</string>
+
+    <!-- Star Wars Quote -->
+    <string name="star_wars_quote">May the Force be with you.</string>
+    <string name="star_wars_actor">Harrison Ford</string>
+    <string name="star_wars_movie">Star Wars (1977)</string>
+
+    <!-- Dark Knight Quote -->
+    <string name="dark_knight_quote">Why so serious?</string>
+    <string name="dark_knight_actor">Heath Ledger</string>
+    <string name="dark_knight_movie">The Dark Knight (2008)</string>
+
+    <!-- E.T. Quote -->
+    <string name="et_quote">E.T. phone home.</string>
+    <string name="et_actor">Henry Thomas</string>
+    <string name="et_movie">E.T. the Extra-Terrestrial (1982)</string>
+
+    <!-- Terminator Quote -->
+    <string name="terminator_quote">Hasta la vista, baby.</string>
+    <string name="terminator_actor">Arnold Schwarzenegger</string>
+    <string name="terminator_movie">Terminator 2: Judgment Day (1991)</string>
+
+    <!-- Titanic Quote -->
+    <string name="titanic_quote">I\'m king of the world!</string>
+    <string name="titanic_actor">Leonardo DiCaprio</string>
+    <string name="titanic_movie">Titanic (1997)</string>
+
+    <!-- Toy Story Quote -->
+    <string name="toy_story_quote">To infinity and beyond!</string>
+    <string name="toy_story_actor">Tim Allen</string>
+    <string name="toy_story_movie">Toy Story (1995)</string>
+
+    <!-- Iron Man Quote -->
+    <string name="iron_man_quote">I am Iron Man.</string>
+    <string name="iron_man_actor">Robert Downey Jr.</string>
+    <string name="iron_man_movie">Iron Man (2008)</string>
+
+    <!-- Finding Nemo Quote -->
+    <string name="finding_nemo_quote">Just keep swimming.</string>
+    <string name="finding_nemo_actor">Ellen DeGeneres</string>
+    <string name="finding_nemo_movie">Finding Nemo (2003)</string>
+
+</resources>
