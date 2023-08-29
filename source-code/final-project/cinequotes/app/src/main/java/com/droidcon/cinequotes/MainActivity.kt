@@ -29,7 +29,7 @@ import androidx.compose.ui.unit.dp
 import com.droidcon.cinequotes.data.Quotes
 import com.droidcon.cinequotes.model.Quote
 import com.droidcon.cinequotes.ui.theme.CineQuotesTheme
-import com.droidcon.cinequotes.ui.theme.in_app_review.InAppReview
+import com.droidcon.cinequotes.ui.in_app_review.InAppReview
 
 class MainActivity : ComponentActivity() {
 

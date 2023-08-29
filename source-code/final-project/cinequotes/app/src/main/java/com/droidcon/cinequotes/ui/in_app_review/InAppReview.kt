@@ -1,4 +1,4 @@
-package com.droidcon.cinequotes.ui.theme.in_app_review
+package com.droidcon.cinequotes.ui.in_app_review
 
 import android.content.ContentValues.TAG
 import android.util.Log
